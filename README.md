@@ -11,7 +11,7 @@ Webpage Screenshot
 
 
 
-Dynamic List Creator
+2.Dynamic List Creator
 
 (Live link: https://relaxed-maamoul-546f5f.netlify.app/)
 
